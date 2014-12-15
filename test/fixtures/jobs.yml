@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job_type: MyString
+  workers: 1
+  county_id: 1
+  end_time: 2014-04-01 21:18:27
+
+two:
+  job_type: MyString
+  workers: 1
+  county_id: 1
+  end_time: 2014-04-01 21:18:27

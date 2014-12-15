@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  call_id: MyString
+  timestamp: 2014-03-29 15:13:57
+  campaign: MyText
+  agent: MyText
+  disposition: MyText
+  ani: MyString
+  dnis: MyString
+  call_time: MyString
+  talk_time: MyString
+  hold_time: MyString
+  transfers: MyString
+  recording: MyString
+  call_type: MyString
+  first_name: MyString
+  last_name: MyString
+  phone_number: MyString
+  ivr_time: MyString
+  queue_wait_time: MyString
+  client_id: MyString
+  branch_id: MyString
+
+two:
+  call_id: MyString
+  timestamp: 2014-03-29 15:13:57
+  campaign: MyText
+  agent: MyText
+  disposition: MyText
+  ani: MyString
+  dnis: MyString
+  call_time: MyString
+  talk_time: MyString
+  hold_time: MyString
+  transfers: MyString
+  recording: MyString
+  call_type: MyString
+  first_name: MyString
+  last_name: MyString
+  phone_number: MyString
+  ivr_time: MyString
+  queue_wait_time: MyString
+  client_id: MyString
+  branch_id: MyString
